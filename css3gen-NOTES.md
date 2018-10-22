@@ -7,7 +7,7 @@ MacBook-Pro:Desktop jasonmayberry **$ cd css3gen/**
 MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --save**  
   
 # add to "angular.json" in the "test: object":  
-```javascript
+```json
 "styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
