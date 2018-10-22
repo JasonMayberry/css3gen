@@ -23,7 +23,7 @@ MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --s
 Bootstrap not applied  
 https://youtu.be/Qh3rlm3tFrM?t=38  
 FIX:  
-add to "angular.json" in the "options: object":  
+Must also add to "angular.json" in the "options: object":  
 ```
 "styles": [  
   "src/styles.css",  
