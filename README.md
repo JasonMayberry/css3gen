@@ -1,12 +1,10 @@
 # Excellent Tutorial!!!!    
-The rest of the video was well explained and easy to follow. The code is up on Github here:  
+The video was well explained and easy to follow. The code is up on Github here:  
 https://github.com/Hujjat/css3gen  if you get stuck.   
   
 A demo of the live site lives here:   
 https://www.youtube.com/redirect?redir_token=h-KihiUZSVcEdmN_HCvESM1Txud8MTU0MDI2MzQyM0AxNTQwMTc3MDIz&q=https%3A%2F%2Fhujjat.github.io%2Fcss3gen-demo&event=video_description&v=BR1ocCDjcRE  
-These two links are in the show notes.  
-  
-Excellent Tutorial!!!!    
+**These two links are in the show notes of the YouTube video.**     
 
 # Create A CSS3 Generator with Angular 6 - Free Course.  
 
