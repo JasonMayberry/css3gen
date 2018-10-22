@@ -21,7 +21,7 @@ MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --s
 Bootstrap not applied  
 https://youtu.be/Qh3rlm3tFrM?t=38  
 FIX:  
-# add to "angular.json" in the "options: object":  
+add to "angular.json" in the "options: object":  
 `"styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
@@ -37,7 +37,7 @@ MacBook-Pro:css3gen jasonmayberry **$ ng g c navbar**
 # Paste into "navbar.compotent.html" this snipit  
 From: https://getbootstrap.com/docs/4.0/components/navbar/  
   
-`<nav class="navbar navbar-expand-lg navbar-light bg-light">  
+`<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">  
   <a class="navbar-brand" href="#">Navbar</a>  
   <button class="navbar-toggler" type="button" data-toggle="collapse"   data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">  
     <span class="navbar-toggler-icon"></span>  
@@ -51,7 +51,7 @@ From: https://getbootstrap.com/docs/4.0/components/navbar/
         <a class="nav-link" href="#">Link</a>  
     </ul>  
   </div>  
-</nav>`  
+</nav> -->`  
   
 # Remove default html from "app.component.html" then add:  
   
