@@ -7,7 +7,8 @@ MacBook-Pro:Desktop jasonmayberry **$ cd css3gen/**
 MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --save**  
   
 # add to "angular.json" in the "test: object":  
-`"styles": [  
+```
+"styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
 ],  
@@ -15,7 +16,8 @@ MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --s
   "./node_modules/jquery/dist/jquery.slim.min.js",  
   "./node_modules/popper.js/dist/umd/popper.min.js",  
   "./node_modules/bootstrap/dist/js/bootstrap.min.js"  
-],`  
+],
+```  
   
 # First Hang-Up  
 Bootstrap not applied  
