@@ -10,7 +10,7 @@ Excellent Tutorial!!!!
 
 # Create A CSS3 Generator with Angular 6 - Free Course.  
 
-[![app screenshot](https://raw.githubusercontent.com/JasonMayberry/css3gen/master/src/assets/images/css3gen.jpg)  
+![app screenshot](https://raw.githubusercontent.com/JasonMayberry/css3gen/master/src/assets/images/css3gen.jpg)  
 
 Starting at:  
 https://www.youtube.com/watch?v=BR1ocCDjcRE&index=1&list=PLB4AdipoHpxa0blRQrCg6sCZk8g2nt5Qg  
