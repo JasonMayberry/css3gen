@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.jumbotron {
+    background-image: url('assets/images/jumbo-bg.jpg');
+    background-size: cover;
+}
+
+.preset-color {
+    width: 22px !important;
+    height: 22px !important;
+}
