@@ -7,7 +7,7 @@ MacBook-Pro:Desktop jasonmayberry **$ cd css3gen/**
 MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --save**  
   
 # add to "angular.json" in the "test: object":  
-```
+```javascript
 "styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
@@ -24,7 +24,7 @@ Bootstrap not applied
 https://youtu.be/Qh3rlm3tFrM?t=38  
 FIX:  
 Must also add to "angular.json" in the "options: object":  
-```
+```javascript
 "styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
@@ -40,7 +40,7 @@ MacBook-Pro:css3gen jasonmayberry **$ ng g c navbar**
   
 # Paste into "navbar.compotent.html" this snipit  
 From: https://getbootstrap.com/docs/4.0/components/navbar/  
- ``` 
+ ```html 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">  
   <a class="navbar-brand" href="#">Navbar</a>  
   <button class="navbar-toggler" type="button" data-toggle="collapse"   data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">  
