@@ -2,11 +2,11 @@
 Starting at:  
 https://www.youtube.com/watch?v=BR1ocCDjcRE&index=1&list=PLB4AdipoHpxa0blRQrCg6sCZk8g2nt5Qg  
   
-MacBook-Pro:~ jasonmayberry**$ ng new css3gen --routing**  
-MacBook-Pro:Desktop jasonmayberry**$ cd css3gen/**  
-MacBook-Pro:css3gen jasonmayberry**$ npm install bootstrap jquery popper.js --save**  
+MacBook-Pro:~ jasonmayberry **$ ng new css3gen --routing**  
+MacBook-Pro:Desktop jasonmayberry **$ cd css3gen/**  
+MacBook-Pro:css3gen jasonmayberry **$ npm install bootstrap jquery popper.js --save**  
   
-# add to "**angular.json**" in the "test: object":  
+# add to "angular.json" in the "test: object":  
 `"styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
@@ -21,7 +21,7 @@ MacBook-Pro:css3gen jasonmayberry**$ npm install bootstrap jquery popper.js --sa
 Bootstrap not applied  
 https://youtu.be/Qh3rlm3tFrM?t=38  
 FIX:  
-# add to "**angular.json**" in the "options: object":  
+# add to "angular.json" in the "options: object":  
 `"styles": [  
   "src/styles.css",  
   "./node_modules/bootstrap/dist/css/bootstrap.min.css"  
@@ -32,9 +32,9 @@ FIX:
   "./node_modules/bootstrap/dist/js/bootstrap.min.js"  
 ]`  
   
-MacBook-Pro:css3gen jasonmayberry**$ ng g c navbar**  
+MacBook-Pro:css3gen jasonmayberry **$ ng g c navbar**  
   
-# Paste into "**navbar.compotent.html**" this snipit  
+# Paste into "navbar.compotent.html" this snipit  
 From: https://getbootstrap.com/docs/4.0/components/navbar/  
   
 `<nav class="navbar navbar-expand-lg navbar-light bg-light">  
@@ -53,12 +53,12 @@ From: https://getbootstrap.com/docs/4.0/components/navbar/
   </div>  
 </nav>`  
   
-# Remove default html from "**app.component.html**" then add:  
+# Remove default html from "app.component.html" then add:  
   
 `<app-navbar></app-navbar>`  
   
-MacBook-Pro:css3gen jasonmayberry**$ ng g c gradient**  
-MacBook-Pro:css3gen jasonmayberry**$ ng g c **  
+MacBook-Pro:css3gen jasonmayberry **$ ng g c gradient**  
+MacBook-Pro:css3gen jasonmayberry **$ ng g c **  
   
   
 # Second Hang-up  
@@ -82,23 +82,4 @@ https://www.youtube.com/redirect?redir_token=h-KihiUZSVcEdmN_HCvESM1Txud8MTU0MDI
 These two links are in the show notes.  
   
 Excellent Tutorial!!!!    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
